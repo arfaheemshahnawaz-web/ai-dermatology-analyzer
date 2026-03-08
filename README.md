@@ -51,5 +51,6 @@ The system combines **OpenCV image analysis** with an **LLM chatbot powered by G
 
 # Installation
 
+```bash
 Clone the repository:
 git clone https://github.com/arfaheemshahnawaz-web/ai-dermatology-analyzer
