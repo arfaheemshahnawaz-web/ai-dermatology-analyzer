@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 # gradio_derm_chatbot_interactive.py
 import cv2
 import numpy as np
